@@ -33,11 +33,10 @@ header .container{
 	align-items: center;
 }
 
-header .logo a{
-	font-size: 30px;
-	text-decoration: none;
-	color:#ffffff;
-	font-weight: 700;
+header .logo a img{
+    height: 70px;   /* adjust to match your current text height */
+    display: block;
+	width: 180px;
 }
 header .logo a span{
 	color:#c11325;
